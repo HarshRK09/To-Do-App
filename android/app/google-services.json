@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681893541704",
+    "project_id": "to-do-flutter-5ae78",
+    "storage_bucket": "to-do-flutter-5ae78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681893541704:android:ce7907c7114fcb85ada57d",
+        "android_client_info": {
+          "package_name": "com.example.haztech_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_xAlGFufGzPIPiw1mVNOJiIfb9Imm33Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
